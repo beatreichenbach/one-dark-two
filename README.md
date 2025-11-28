@@ -127,7 +127,7 @@ One Dark Two is a fresh take on [Atom's](https://github.com/atom/atom) One Dark 
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 
-## Liecense
+## License
 
 One Dark Two is released under the MIT license, see the [LICENSE](LICENSE).
 
