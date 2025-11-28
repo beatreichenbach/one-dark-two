@@ -123,7 +123,7 @@ One Dark Two is a fresh take on [Atom's](https://github.com/atom/atom) One Dark 
 
 ## Ports
 
-- [JetBrains IDE](https://github.com/beatreichenbach/one_dark_two)
+- [JetBrains IDE](https://github.com/beatreichenbach/jetbrains-one-dark-two)
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 
